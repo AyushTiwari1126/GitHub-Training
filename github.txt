@@ -30,4 +30,8 @@ Creating a gist requires a very simple process as depicted in the steps below: -
 8. What is gist programming?
 GitHub provides a hosting service that facilitates a web-based Git repository. It includes all the functionality of Git with additional features added in. The gist is an additional attribute added to GitHub, which facilitates the sharing of code snippets, notes, to do lists, and more. We can save our Gists as secret or public in the repository.
 
-AyushTiwari
+
+This file is now pull from the remote repository to the local repository and make changes into it.
+And after that it will again push to that same remote repository.
+
+This is called Git Pull Request.
